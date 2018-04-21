@@ -10,6 +10,8 @@
 
 **具体认定，可以在理财师APP，客户列表中查询**
 
+![](../.gitbook/assets/image%20%287%29.png)
+
 如果客户注册的手机号码与系统登录手机号码不一致，通过则无法通过实名认证，即无法获得已经购买的资产数据。在正式运营之后，允许客户通过实名认证替代原有资产
 
 ### STEP 1 邀请存续客户查看资产功能 {#step-1}
@@ -24,11 +26,11 @@
 
 3. 引导客户打开小程序链接并进行登录
 
-   ![](../.gitbook/assets/image%20%2810%29.png)
+   ![](../.gitbook/assets/image%20%2811%29.png)
 
 4. 用户登录后查看存续资产
 
-   ![](../.gitbook/assets/image%20%2818%29.png)
+   ![](../.gitbook/assets/image%20%2819%29.png)
 
    ![](blob:https://alego.gitbook.io/0f7b84fd-ab22-477d-975a-58cbf194c9f8)
 
@@ -45,7 +47,7 @@
 
 1. 查看客户认定状态
 
-   ![](../.gitbook/assets/image%20%2811%29.png)
+   ![](../.gitbook/assets/image%20%2812%29.png)
 
 2. 引导客户进行普通投资者进行风险评测
 

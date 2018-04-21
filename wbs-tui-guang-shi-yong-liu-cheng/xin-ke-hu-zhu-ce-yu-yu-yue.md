@@ -14,21 +14,21 @@ description: 本场景适合与新客户签约， 即在源泉管家中该客户
 
 2. 引导客户打开链接进行注册，完成理财经理绑定
 
-   ![](../.gitbook/assets/image%20%2821%29.png)
+   ![](../.gitbook/assets/image%20%2822%29.png)
 
 3. 客户使用手机号码注册，并且长按二维码，使用小程序登录
 
-   ![](../.gitbook/assets/image%20%2823%29.png)
+   ![](../.gitbook/assets/image%20%2824%29.png)
 
 4. 登录成功后 ，选择“我是普通投资者” ，普转专 流程在后续资料提供完备后，后台可自动升级。
 
-   ![](../.gitbook/assets/image%20%2819%29.png)
+   ![](../.gitbook/assets/image%20%2820%29.png)
 
 ### STEP 2 . 引导客户进行实名认证与风险评测（ 客户小程序）
 
 1. 引导客户进行实名认证
 
-   ![](../.gitbook/assets/image%20%2826%29.png)
+   ![](../.gitbook/assets/image%20%2827%29.png)
 
 2. 引导客户客户完成风险评测
 
@@ -38,11 +38,11 @@ description: 本场景适合与新客户签约， 即在源泉管家中该客户
 
 1. 产品浏览功能，并完成合格投资者确认
 
-   ![](../.gitbook/assets/image%20%2815%29.png)
+   ![](../.gitbook/assets/image%20%2816%29.png)
 
 2. 引导客户 完成客户如何查看资产
 
-   ![](../.gitbook/assets/image%20%287%29.png)
+   ![](../.gitbook/assets/image%20%288%29.png)
 
 ### STEP4 . 预约产品  （理财师APP）
 
@@ -50,7 +50,7 @@ RM 选择需要预约的产品，选择客户，进行预约。
 
 > 成功预约的前提条件 ，客户为已经通过确认的“专业投资者” 或者 “承诺合格投资人，并且完成 ” 风险等级匹配”
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
 
 
@@ -72,11 +72,11 @@ RM 选择需要预约的产品，选择客户，进行预约。
 
 > _**签约审核条件：合同、身份证复印件、银行卡、交易凭证 ，四项内容完整文件**_
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 
 
 ### 附录：预约进度页面
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
